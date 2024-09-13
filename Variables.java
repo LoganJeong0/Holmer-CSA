@@ -1,6 +1,6 @@
-public class Variables
+public class Main
 {
-    public static void main(String[] args)
+    public static void Main(String[] args)
     {
         String greeting = "Hello world!";
         boolean b = true;
